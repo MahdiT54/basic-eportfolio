@@ -1,0 +1,16 @@
+What is HTML?
+- Hyper Text Markup Language
+- Not Programming Language
+- Used to structure content (pages and docs)
+
+
+How do we write HTML tags?
+- Element names are surrounded by angle brackets
+- Tag elements usually come in pairs (start and end tag)
+- Some tags close themselves
+-- Examples:
+    <h1>Example</h1>
+    <br/> (self-closing tag)
+    <br> (is fine with HTML5)
+
+
